@@ -1,3 +1,4 @@
+#yo yo
 MIT License
 
 Copyright (c) 2023 Ranger 404 Script
