@@ -1,9 +1,4 @@
-import tkinter as tk
-import discord
-from discord.ext import commands
-from time import sleep
-win = tk.Tk()
-win.geometry("400x500")
+
 win.configure(bg="black")
 win.resizable(0,0)
 win.title("Server Nucker Discord | Ranger404Script")
